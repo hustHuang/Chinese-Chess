@@ -1,10 +1,7 @@
 
 Chinese chess 
-=====
-A small game by jquery , also used understore.js ，just have basic operations on the roles with tips.
-
-Chinese chess 
------
+---
+A small game by jquery , also used understore.js
 
 ### Language
 
